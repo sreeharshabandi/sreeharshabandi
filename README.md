@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Sreeharsha Bandi
-- 👀 I’m interested in Malware
-- 🌱 I’m currently learning ThreatDetection
-- 📫 DM @ twitter.com/PageRWX
+- 👋 Hi, I’m **Sreeharsha Bandi**
+- 👀 I’m interested in **Malware**
+- 🌱 I’m currently learning **ThreatDetection**
+- 📫 DM @ **twitter.com/PageRWX**
 
 <!---
 sreeharshabandi/sreeharshabandi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
