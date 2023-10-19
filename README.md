@@ -1,5 +1,5 @@
 - 👋 Hi, I’m **Sreeharsha Bandi**
-- 👀 I’m interested in **Malware**
+- 👀 I’m interested in **Malware & Forensics**
 - 🌱 I’m currently learning **ThreatDetection**
 - 📫 DM @ **twitter.com/PageRWX**
 
